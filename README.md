@@ -1,5 +1,5 @@
 Hello guys!
-My first code in this platform and I tried to do it all mathematically.
+This is my first code in this platform and I tried to do it all mathematically.
 Giving the CS50 challenge to do the Plurality code, I've searched for some solutions but I saw a lot of them treating of new libraries and functions.
 So I tried to do it differently, by starting with the input, and changing letter by letter using ASCII table.
 There's nothing out of the box on it, because probably the functions other people used was developed like this, but I was happy to see it working, knowing that I went back coding this year.
